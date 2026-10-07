@@ -393,6 +393,14 @@ If you are experiencing any bugs, don't forget to open a [new issue](https://git
  <img alt="tutanota.com" src="https://user-images.githubusercontent.com/8397274/265096374-09faa63f-6847-4133-b409-5f7dc9ed1d59.png" width="300">
  </a>
 
+- Thanks **Greptile** for sponsoring AI code reviews:
+
+ <a href="https://www.greptile.com/badge.svg)](https://www.greptile.com/?utm_source=oss_badge&utm_medium=readme&utm_campaign=greptile_for_open_source" target="_blank">
+ <img alt="Greptile: The War on Bugs" src="https://www.greptile.com/badge.svg" width="300">
+ </a>
+
+
+
 
 ### Contributors ✨
 
@@ -450,7 +458,3 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ## Liked it?
 
 Hope you liked this project, don't forget to give it a star ⭐.
-
-<a href="https://starchart.cc/gautamkrishnar/blog-post-workflow">
-    <img alt="chart" src="https://starchart.cc/gautamkrishnar/blog-post-workflow.svg" width="600px">
-</a>
